@@ -1,5 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-AGK BASIC/* linguist-language=AGK Basic
+AGK-BASIC/* linguist-language=AGK Basic
 *.agk linguist-detectable
 *.agc linguist-detectable
