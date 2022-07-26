@@ -123,7 +123,6 @@ void GeneratePassword()
 
 int app::Loop(void)
 {
-	agk::Print(PasswordField);
 	// Show and Hide button swap and enable/disable secret
 	if (agk::GetVirtualButtonPressed(10))
 	{
