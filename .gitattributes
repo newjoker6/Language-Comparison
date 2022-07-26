@@ -3,3 +3,4 @@
 AGK-BASIC/* linguist-language=AGK-Basic
 *.agk linguist-detectable
 *.agc linguist-detectable
+AGK-BASIC/* linguist-documentation
