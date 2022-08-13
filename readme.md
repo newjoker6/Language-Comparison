@@ -22,7 +22,7 @@ This repo exists for two main purposes.
 <img src="images/CPP.png">
  <br>
 
-## C++ with AGK headers <br>
+## C++ with AGK headers (AGK Tier 2)<br>
 <img src="images/CPP_AGK.png">
  <br>
 
