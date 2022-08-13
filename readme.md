@@ -14,6 +14,10 @@ This repo exists for two main purposes.
 <img src="images/GDScript.png">
  <br>
 
+## Python <br>
+<img src="images/Python.png">
+ <br>
+
 ## C++ <br>
 <img src="images/CPP.png">
  <br>
