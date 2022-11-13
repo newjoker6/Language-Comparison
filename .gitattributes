@@ -2,3 +2,4 @@
 * text=auto
 AGK-Basic/* linguist-language=BASIC
 /Dart/lib/* linguist-language=Dart
+/CSharp Unity/* linguist-language=C#
